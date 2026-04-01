@@ -120,7 +120,7 @@ export default function CartDrawer() {
 
                           {/* Price */}
                           <p className="font-montserrat text-sm text-soft-petal-charcoal font-medium">
-                            ${item.price * item.quantity}
+                            {item.price * item.quantity} MAD
                           </p>
                         </div>
                       </div>
@@ -146,7 +146,7 @@ export default function CartDrawer() {
                     Subtotal
                   </span>
                   <span className="font-playfair text-xl text-soft-petal-charcoal">
-                    ${subtotal}
+                    {subtotal} MAD
                   </span>
                 </div>
                 <p className="font-montserrat text-xs text-soft-petal-charcoal/60 mb-4 text-center">

@@ -9,10 +9,10 @@ import ProductCard from './ProductCard'
 
 const priceRanges = [
   { label: 'All Prices', min: 0, max: Infinity },
-  { label: 'Under $200', min: 0, max: 200 },
-  { label: '$200 - $300', min: 200, max: 300 },
-  { label: '$300 - $400', min: 300, max: 400 },
-  { label: 'Over $400', min: 400, max: Infinity },
+  { label: 'Under 200 MAD', min: 0, max: 200 },
+  { label: '200 - 300 MAD', min: 200, max: 300 },
+  { label: '300 - 400 MAD', min: 300, max: 400 },
+  { label: 'Over 400 MAD', min: 400, max: Infinity },
 ]
 
 const sizes = ['XS', 'S', 'M', 'L', 'XL']

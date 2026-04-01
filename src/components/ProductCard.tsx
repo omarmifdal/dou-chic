@@ -135,7 +135,7 @@ export default function ProductCard({ product, index }: ProductCardProps) {
           {product.name}
         </h3>
         <p className="font-montserrat text-sm sm:text-base text-soft-petal-charcoal font-medium">
-          ${product.price}
+          {product.price} MAD
         </p>
       </div>
 

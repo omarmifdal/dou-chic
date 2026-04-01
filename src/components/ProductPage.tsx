@@ -101,7 +101,7 @@ export default function ProductPage({ product }: ProductPageProps) {
               {product.name}
             </h1>
             <p className="font-montserrat text-2xl text-soft-petal-charcoal mb-6">
-              ${product.price}
+              {product.price} MAD
             </p>
 
             {/* Description */}

@@ -4,7 +4,7 @@ export const products: Product[] = [
   {
     id: '1',
     name: 'Ethereal Silk Blouse',
-    price: 285,
+    price: 2850,
     image: 'https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=600&q=80',
     hoverImage: 'https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&q=80',
     sizes: ['XS', 'S', 'M', 'L'],
@@ -15,7 +15,7 @@ export const products: Product[] = [
   {
     id: '2',
     name: 'Timeless Wrap Dress',
-    price: 420,
+    price: 4200,
     image: 'https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=600&q=80',
     hoverImage: 'https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=600&q=80',
     sizes: ['XS', 'S', 'M', 'L', 'XL'],
@@ -27,7 +27,7 @@ export const products: Product[] = [
   {
     id: '3',
     name: 'Sculpted Knit Cardigan',
-    price: 195,
+    price: 1950,
     image: 'https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=600&q=80',
     hoverImage: 'https://images.unsplash.com/photo-1485462537746-965f33f7f6a7?w=600&q=80',
     sizes: ['S', 'M', 'L'],
@@ -38,7 +38,7 @@ export const products: Product[] = [
   {
     id: '4',
     name: 'Palazzo Trousers',
-    price: 240,
+    price: 2400,
     image: 'https://images.unsplash.com/photo-1509631179647-0177331693ae?w=600&q=80',
     hoverImage: 'https://images.unsplash.com/photo-1551854838-212c50b4c184?w=600&q=80',
     sizes: ['XS', 'S', 'M', 'L'],
@@ -49,7 +49,7 @@ export const products: Product[] = [
   {
     id: '5',
     name: 'Delicate Midi Skirt',
-    price: 175,
+    price: 1750,
     image: 'https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=600&q=80',
     hoverImage: 'https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=600&q=80',
     sizes: ['XS', 'S', 'M', 'L'],
@@ -61,7 +61,7 @@ export const products: Product[] = [
   {
     id: '6',
     name: 'Oversized Linen Blazer',
-    price: 365,
+    price: 3650,
     image: 'https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=600&q=80',
     hoverImage: 'https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=600&q=80',
     sizes: ['S', 'M', 'L'],
@@ -72,7 +72,7 @@ export const products: Product[] = [
   {
     id: '7',
     name: 'Cashmere Turtleneck',
-    price: 320,
+    price: 3200,
     image: 'https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=600&q=80',
     hoverImage: 'https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=600&q=80',
     sizes: ['XS', 'S', 'M', 'L', 'XL'],
@@ -83,7 +83,7 @@ export const products: Product[] = [
   {
     id: '8',
     name: 'Couture Corset Top',
-    price: 285,
+    price: 2850,
     image: 'https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=600&q=80',
     hoverImage: 'https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=600&q=80',
     sizes: ['XS', 'S', 'M'],
