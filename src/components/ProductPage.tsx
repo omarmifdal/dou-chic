@@ -201,7 +201,7 @@ export default function ProductPage({ product }: ProductPageProps) {
                     <li>• 100% Mulberry Silk</li>
                     <li>• Dry clean only</li>
                     <li>• Made in Italy</li>
-                    <li>• Model is 5'10" wearing size S</li>
+                    <li>• Model is 5&apos;10&quot; wearing size S</li>
                   </ul>
                 </div>
               </details>
